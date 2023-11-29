@@ -1,3 +1,24 @@
+# YouTube-Inspired Video Platform
+
+Welcome to the YouTube-inspired video platform! This project is designed to effectively display diverse video content spanning various categories.
+
+## Tech Stack
+
+- ReactJS
+- Tailwind CSS
+- Rapid API
+
+## Features
+
+- Responsive user interface for seamless viewing on various devices.
+- Categorized video content for easy navigation.
+- Integration with Rapid API to fetch and display diverse video data.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
